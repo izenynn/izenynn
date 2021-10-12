@@ -1,5 +1,7 @@
 # Hi there im izenynn 🙃
 
+💻 I am currently learning programming at 42
+
 and thats all, hope you enjoy my git :)
 
 ##
