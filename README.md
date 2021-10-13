@@ -6,7 +6,7 @@ and thats all, hope you enjoy my git :)
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izenynn&langs_count=100&theme=dark)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izenynn&langs_count=100&theme=dark)
 
 ## 42
 
