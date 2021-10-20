@@ -24,7 +24,9 @@ and thats all, hope you enjoy my git :)
 
 ## Games
 On my free time I enjoy doing games as a hobby, check out my games in:
+
 [itch.io](https://izenynn.itch.io/)
+
 [play store](https://play.google.com/store/apps/dev?id=7058025449549000845)
 
 ##
