@@ -14,7 +14,7 @@ and thats all, hope you enjoy my git :)
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
-| <a href="https://github.com/izenynn/libft" target="_blank" rel="noopener noreferrer">libft</a> | [![dpoveda- 42 project score](https://badge42.herokuapp.com/api/project/dpoveda-/Libft)](https://github.com/JaeSeoKim/badge42) | C Library |
+| [libft](https://github.com/izenynn/libft) | [![dpoveda- 42 project score](https://badge42.herokuapp.com/api/project/dpoveda-/Libft)](https://github.com/JaeSeoKim/badge42) | C Library |
 | Born2BeRoot | [![dpoveda- 42 project score](https://badge42.herokuapp.com/api/project/dpoveda-/Born2beroot)](https://github.com/JaeSeoKim/badge42) | Systems and Virtualization |
 | [get_next_line](https://github.com/izenynn/get_next_line)	| [![dpoveda- 42 project score](https://badge42.herokuapp.com/api/project/dpoveda-/get_next_line)](https://github.com/JaeSeoKim/badge42) | C Function |
 | [ft_printf](https://github.com/izenynn/ft_printf)	| [![dpoveda- 42 project score](https://badge42.herokuapp.com/api/project/dpoveda-/ft_printf)](https://github.com/JaeSeoKim/badge42) | C Library |
