@@ -22,6 +22,11 @@ and thats all, hope you enjoy my git :)
 | [pipex](https://github.com/izenynn/pipex) | [![dpoveda- 42 project score](https://badge42.herokuapp.com/api/project/dpoveda-/pipex)](https://github.com/JaeSeoKim/badge42) | C & UNIX |
 | [FdF](https://github.com/izenynn/fdf) | [![dpoveda- 42 project score](https://badge42.herokuapp.com/api/project/dpoveda-/FdF)](https://github.com/JaeSeoKim/badge42) | C & Graphics |
 
+## Games
+On my free time I enjoy doing games as a hobby, check out my games in:
+[itch.io](https://izenynn.itch.io/)
+[play store](https://play.google.com/store/apps/dev?id=7058025449549000845)
+
 ##
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
