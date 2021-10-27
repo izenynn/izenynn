@@ -14,7 +14,7 @@ and thats all, hope you enjoy my git :)
 
 ## 42
 
-[![dpoveda- 42 stats](https://badge42.herokuapp.com/api/stats/dpoveda-?darkmode=false&privacyEmail=true&privacyName=true)](https://profile.intra.42.fr/users/dpoveda-)
+[![dpoveda- 42 stats](https://badge42.herokuapp.com/api/stats/dpoveda-?darkmode=true&privacyEmail=true&privacyName=true)](https://profile.intra.42.fr/users/dpoveda-)
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
