@@ -10,7 +10,7 @@ and thats all, hope you enjoy my git :)
 
 ## Most used languages (github)
 
-![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izenynn&langs_count=10&theme=dark&count_private=true&hide_title=true&layout=compact&hide=roff,swift,objetive-c,perl)
+![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izenynn&langs_count=10&theme=dark&count_private=true&hide_title=true&layout=compact&hide=roff,swift,objective-c,perl)
 
 ## 42
 
