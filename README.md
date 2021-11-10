@@ -1,6 +1,6 @@
 # Hi there im izenynn 🙃
 
-💻  I am currently studying programming at 42
+💻  I am currently studying programming at 42 (user: dpoveda-)
 
 and thats all, hope you enjoy my git :)
 
