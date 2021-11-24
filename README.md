@@ -4,6 +4,8 @@
 
 and thats all, hope you enjoy my git :)
 
+![linux penguin gif](media/linux.gif)
+
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izenynn&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/izenynn?tab=repositories)
