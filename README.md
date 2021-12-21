@@ -4,7 +4,7 @@
 
 and thats all, hope you enjoy my git :)
 
-![linux penguin gif](media/linux.gif)
+<img align="right" src=media/linux.gif style="object-fit: cover; height: 210px; float: right">
 
 ## GitHub Stats
 
