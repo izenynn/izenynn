@@ -10,6 +10,8 @@ and thats all, hope you enjoy my git :)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izenynn&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/izenynn?tab=repositories)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=izenynn.izenynn)
+
 ## Most used languages (github)
 
 [![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izenynn&langs_count=10&theme=dark&count_private=true&hide_title=true&layout=compact&hide=roff,swift,objective-c,perl)](https://github.com/izenynn?tab=repositories)
