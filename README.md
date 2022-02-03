@@ -1,6 +1,8 @@
 # Hi there im izenynn 🙃
 
-💻  I am currently studying programming at 42
+💻 C / C++ junior bug developer.
+
+🌱 42 student.
 
 and thats all, hope you enjoy my git :)
 
