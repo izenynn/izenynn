@@ -1,8 +1,10 @@
-# Hi there im izenynn 🙃
+# Hi there i'm izenynn 🙃
+
+👨🏻‍💻 Cyber Security Technician @ Telefonica.
 
 💻 C / C++ junior bug developer.
 
-🌱 42 student.
+🌱 42 Madrid student.
 
 and thats all, hope you enjoy my git :)
 
