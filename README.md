@@ -1,10 +1,9 @@
 # Hi there i'm izenynn 🙃
 
-👨🏻‍💻 Cyber Security Technician @ Telefonica.
-
-💻 C / C++ junior bug developer.
-
-🌱 42 Madrid student.
+👨🏻‍💻 Cybersec tech @ Telefonica.
+🌱 Student @ 42 Madrid.
+👨🏻‍💻 C/C++ developer.
+💭 Interested in Pentesting and Kernel.
 
 and thats all, hope you enjoy my git :)
 
