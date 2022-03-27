@@ -1,8 +1,11 @@
 # Hi there i'm izenynn 🙃
 
 👨🏻‍💻 Cybersec tech @ Telefonica.
+
 🌱 Student @ 42 Madrid.
+
 👨🏻‍💻 C/C++ developer.
+
 💭 Interested in Pentesting and Kernel.
 
 and thats all, hope you enjoy my git :)
