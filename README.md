@@ -1,5 +1,7 @@
 # Hi there i'm izenynn 🙃
 
+~ /dev/null is for noobs, hackers use $(mktemp) ~
+
 🌱 Student @ 42 Madrid.
 
 👨🏻‍💻 C/C++ developer.
