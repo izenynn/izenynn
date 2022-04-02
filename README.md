@@ -1,6 +1,6 @@
 # Hi there i'm izenynn 🙃
 
-<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right; margin-right: 1000px;">
+<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right; padding-right: 50px;">
 
 ~ /dev/null is for noobs, hackers use $(mktemp) ~
 
