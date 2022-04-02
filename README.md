@@ -14,6 +14,8 @@
 
 and thats all, hope you enjoy my git :)
 
+<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 210px; float: right">
+
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izenynn&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/izenynn?tab=repositories)
