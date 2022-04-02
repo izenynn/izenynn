@@ -1,5 +1,7 @@
 # Hi there i'm izenynn 🙃
 
+<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 210px; float: right">
+
 ~ /dev/null is for noobs, hackers use $(mktemp) ~
 
 🌱 Student @ 42 Madrid.
@@ -13,8 +15,6 @@
 📩 me@izenynn.com
 
 and thats all, hope you enjoy my git :)
-
-<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 210px; float: right">
 
 ## GitHub Stats
 
