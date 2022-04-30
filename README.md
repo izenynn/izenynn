@@ -7,11 +7,13 @@
 ~ /dev/null is for noobs, hackers use $(mktemp) ~
 
 - 🌍 I'm based in Madrid
-- 🖥️ See my portfolio at [izenynn.com](http://izenynn.com)
-- ✉️ You can contact me at [me@izenynn.com](mailto:me@izenynn.com)
-- 🚀 I'm currently working on [Telefonica](http://telefonica.com)
-- 🧠 I'm learning kernel and pentesting
-- 💛 I'm open to collaborating on almost everything (if it's interesting)
+- 🖥️ See my web/portfolio at [izenynn.com](https://izenynn.com)/[github/izenynn](https://github.com/izenynn)
+- ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com)
+- 🌱 Student at [42](https://42madrid.com)
+- 🚀 Working at [Telefonica](http://telefonica.com)
+- 🧠 Learning kernel and pentesting
+- 💭 I would like to learn Rust and Go on the future.
+- 💛 Open to collaborating on everything interesting
 - 🎮 On my free time I enjoy watching anime and programming
 
 ### Skills
