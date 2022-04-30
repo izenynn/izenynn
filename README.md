@@ -1,6 +1,8 @@
-# Hi 👋 there i'm izenynn 🙃
+Hi 👋 there i'm izenynn 🙃
+==========================
 
-## C/C++ && pentesting
+C/C++ && pentesting
+-------------------
 
 <img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
 
