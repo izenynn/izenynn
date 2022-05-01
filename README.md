@@ -9,15 +9,15 @@
 
 ~ /dev/null is for noobs, hackers use $(mktemp) ~
 
-- 🌍 I'm based in Madrid
-- 🖥️ See my web/portfolio at [izenynn.com](https://izenynn.com) / [github/izenynn](https://github.com/izenynn)
+- 🌍 Based in Madrid
+- 🖥️ See my web at [izenynn.com](https://izenynn.com)
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com)
-- 🌱 Student at [42](https://42madrid.com)
 - 🚀 Working at [Telefonica](http://telefonica.com)
+- 🌱 Student at [42](https://42madrid.com)
 - 🧠 Learning kernel and pentesting
-- 💭 I would like to learn Rust and Go on the future.
+- 💭 I would like to learn Rust and Go on the future
 - 💛 Open to collaborating on everything interesting
-- 🎮 On my free time I enjoy watching anime and programming
+- 🎮 My hobbies are One Piece, [Hack The Box](https://app.hackthebox.com/profile/757646) and Programming
 
 ### Skills
 
