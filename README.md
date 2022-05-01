@@ -5,7 +5,7 @@
 <!--
 <img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
 -->
-<img align="right" src=./media/one-piece-law.gif style="object-fit: cover; height: 275px; float: right;">
+<img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
 
 ~ /dev/null is for noobs, hackers use $(mktemp) ~
 
