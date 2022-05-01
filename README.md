@@ -2,9 +2,6 @@
 
 ## C/C++ / Kernel / Pentesting
 
-<!--
-<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
--->
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
 
 ~ /dev/null is for noobs, hackers use $(mktemp) ~
@@ -42,6 +39,8 @@
 </p>
 
 ### My GitHub Stats
+
+<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
 
 <a href="http://www.github.com/izenynn" align="left"><img src="https://github-readme-stats.vercel.app/api?username=izenynn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&show_icons=true" alt="izenynn's GitHub stats" /></a>
 
