@@ -2,6 +2,9 @@
 
 ## C/C++ / Kernel / Pentesting
 
+<!--
+<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
+-->
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
 
 ~ /dev/null is for noobs, hackers use $(mktemp) ~
@@ -15,8 +18,6 @@
 - 💭 I would like to learn Rust and Go on the future.
 - 💛 Open to collaborating on everything interesting
 - 🎮 On my free time I enjoy watching anime and programming
-
-<img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
 
 ### Skills
 
