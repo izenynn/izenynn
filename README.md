@@ -17,7 +17,7 @@
 - 🧠 Learning kernel and pentesting
 - 💭 I would like to learn Rust and Go on the future
 - 💛 Open to collaborating on everything interesting
-- 🎮 My hobbies are One Piece, [Hack The Box](https://app.hackthebox.com/profile/757646) and Programming
+- 🎮 My hobbies are One Piece, [Hack The Box](https://app.hackthebox.com/users/757646) and Programming
 
 ### Skills
 
