@@ -12,7 +12,6 @@
 - 🌍 Based in Madrid
 - 🖥️ See my web at [izenynn.com](https://izenynn.com)
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com)
-- 🚀 Working at [Telefonica](http://telefonica.com)
 - 🌱 Student at [42](https://42madrid.com)
 - 🧠 Learning kernel and pentesting
 - 💭 I would like to learn Rust and Go on the future
