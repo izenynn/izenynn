@@ -13,10 +13,11 @@
 - 🖥️ See my web at [izenynn.com](https://izenynn.com)
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com)
 - 🌱 Student at [42](https://42madrid.com)
-- 🧠 Learning kernel and pentesting
-- 💭 I would like to learn Rust and Go on the future
+- ⌨️ C and C++ developer
+- 🧠 Learning Rust, pentesting and more C and C++
+- 💭 I would like to learn kernel and Go in the future
 - 💛 Open to collaborating on everything interesting
-- 🎮 My hobbies are One Piece, [Hack The Box](https://app.hackthebox.com/profile/757646) and Programming
+- 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), programming and One Piece
 
 ### Skills
 
