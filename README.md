@@ -14,8 +14,8 @@
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com)
 - 🌱 Student at [42](https://42madrid.com)
 - ⌨️ C and C++ developer
-- 🧠 Learning Rust, pentesting and more C and C++
-- 💭 I would like to learn kernel and Go in the future
+- 🧠 Learning Game development in C/C++, and Rust
+- 💭 I would like to learn kernel and Go in the future, just for fun
 - 💛 Open to collaborating on everything interesting
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), programming and One Piece
 
