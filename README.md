@@ -1,6 +1,6 @@
 # Hi 👋 there i'm izenynn 🙃
 
-## C/C++ / Kernel / Pentesting
+## Pentesting / C / C++
 
 <!--
 <img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
@@ -13,9 +13,9 @@
 - 🖥️ See my web at [izenynn.com](https://izenynn.com)
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com)
 - 🌱 Student at [42](https://42madrid.com)
+- 👾 Junior Pentester
 - ⌨️ C and C++ developer
-- 🧠 Learning Game development in C/C++, and Rust
-- 💭 I would like to learn kernel and Go in the future, just for fun
+- 💭 I would like to learn kernel programming, just for fun
 - 💛 Open to collaborating on everything interesting
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), programming and One Piece
 
@@ -49,9 +49,11 @@
 
 <a href="https://github.com/izenynn" align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=izenynn.izenynn" alt="Visitors count" /></a>
 
+<!--
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/izenynn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+-->
 
 ##
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
