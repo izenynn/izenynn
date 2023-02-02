@@ -1,6 +1,6 @@
 # Hi 👋 there i'm izenynn 🙃
 
-## Pentesting / C / C++
+## C / C++
 
 <!--
 <img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
@@ -13,9 +13,9 @@
 - 🖥️ See my web at [izenynn.com](https://izenynn.com)
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com)
 - 🌱 Student at [42](https://42madrid.com)
+- ⌨️ C and C++ Junior Developer
 - 👾 Junior Pentester
-- ⌨️ C and C++ developer
-- 💭 I would like to learn kernel programming, just for fun
+- 💭 I would like to learn rust, kernel dev and game dev
 - 💛 Open to collaborating on everything interesting
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), programming and One Piece
 
