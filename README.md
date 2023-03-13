@@ -1,20 +1,19 @@
 # Hi 👋 there i'm izenynn 🙃
 
-## C / C++ Developer
+## C and C++ Developer
 
 <!--
 <img align="right" src=./media/wp-linux-nobg.webp style="object-fit: cover; height: 275px; float: right;">
 -->
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
 
-~ /dev/null is for noobs, hackers use $(mktemp) ~
+~ 65312 byte(s) leaked in 693 allocation(s). ~
 
 - 🌍 Based in Madrid.
 - 🖥️ See my technical blog at [izenynn.com](https://izenynn.com).
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com).
 - 🌱 Student at [42](https://42madrid.com).
 - ⌨️ C and C++ Developer.
-- 💭 I would like to learn rust, game dev and kernel dev.
 - 💛 Open to collaborating on everything interesting.
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), programming and One Piece.
 
