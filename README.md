@@ -13,7 +13,7 @@
 - 🖥️ See my technical blog at [izenynn.com](https://izenynn.com).
 - ✉️ Contact me at [me@izenynn.com](mailto:me@izenynn.com).
 - 🌱 Student at [42](https://42madrid.com).
-- ⌨️ Dvorak Programmer enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn)).
+- ⌨️ Arch Linux & Dvorak Programmer enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn)).
 - 👾 Sometimes I develop games, ([Itch.io profile](https://izenynn.itch.io/)), ([Google Play profile](https://play.google.com/store/apps/dev?id=7058025449549000845)).
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), reading, playing, longboard, cooking and hanging out.
 
