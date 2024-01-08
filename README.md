@@ -5,8 +5,8 @@
 C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 
 </span>
-<br><br>
-<span align="left">
+
+<br><br><span align="left">
 
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
 
@@ -21,7 +21,8 @@ C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), series, longboard, cooking and hanging out.
 
 </span>
-<span align="center">
+
+<br><br><span align="center">
 
 <!-- From: https://github-profile-summary-cards.vercel.app/demo.html -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izenynn&theme=ayu_mirage)
@@ -30,13 +31,8 @@ C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 &ensp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izenynn&theme=ayu_mirage)
 
-<br>
-
-Visitors
-
-<br><br>
-
-<img src="https://profile-counter.glitch.me/izenynn/count.svg" alt="Visitors count">
+<br>Visitors
+<br><br><img src="https://profile-counter.glitch.me/izenynn/count.svg" alt="Visitors count">
 
 ##
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
