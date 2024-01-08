@@ -5,7 +5,7 @@
 C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 
 </span>
-<br><br><br>
+<br><br>
 <span align="left">
 
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
