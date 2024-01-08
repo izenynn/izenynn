@@ -2,7 +2,7 @@
 
 <h2>👋 Hi, I'm Dani 🙃</h2>
 
-C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
+🛰 C/C++&ensp;•&ensp;👾 GameDev&ensp;•&ensp;🚧 DevOps
 
 </span>
 <br><br>
