@@ -5,7 +5,8 @@
 <p>C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 
 </span>
-<span>
+<br><br>
+<span align="left">
 
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
 
@@ -20,6 +21,7 @@
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), series, longboard, cooking and hanging out.
 
 </span>
+<br><br>
 <span align="center">
 
 <!-- From: https://github-profile-summary-cards.vercel.app/demo.html -->
