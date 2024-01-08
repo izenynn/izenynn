@@ -28,14 +28,18 @@ C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izenynn&theme=ayu_mirage)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=izenynn&theme=ayu_mirage)
+&ensp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izenynn&theme=ayu_mirage)
 
 <!-- Visitor count -->
-<br>Visitors<br><br>
+<br>
+Visitors
+<br><br>
 <img src="https://profile-counter.glitch.me/izenynn/count.svg" alt="Visitors count">
 
 ##
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+&ensp;
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
 </span>
