@@ -21,7 +21,6 @@ C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 - 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), series, longboard, cooking and hanging out.
 
 </span>
-<br><br>
 <span align="center">
 
 <!-- From: https://github-profile-summary-cards.vercel.app/demo.html -->
@@ -31,10 +30,12 @@ C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 &ensp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izenynn&theme=ayu_mirage)
 
-<!-- Visitor count -->
 <br>
+
 Visitors
+
 <br><br>
+
 <img src="https://profile-counter.glitch.me/izenynn/count.svg" alt="Visitors count">
 
 ##
