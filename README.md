@@ -1,11 +1,11 @@
 <span align="center">
 
-<h2>Hi 👋 there i'm Dani 🙃</h2>
+<h2>👋 Hi, I'm Dani 🙃</h2>
 
-<p>C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
+C/C++&ensp;•&ensp;GameDev&ensp;•&ensp;DevOps
 
 </span>
-<br><br>
+<br><br><br>
 <span align="left">
 
 <img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
