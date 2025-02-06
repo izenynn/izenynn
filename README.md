@@ -19,7 +19,7 @@
 - 🌱 Student at [42](https://42madrid.com) && [U-Tad](https://u-tad.com/en/).
 - ⌨️ Arch Linux && Dvorak Programmer enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn)).
 - 👾 I sometimes develop games, ([Itch.io profile](https://izenynn.itch.io/)), ([Google Play profile](https://play.google.com/store/apps/dev?id=7058025449549000845)).
-- 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and "patatas bravas" with beer.
+- 🎮 My hobbies are pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and "patatas bravas".
 
 </span>
 <br><br>
