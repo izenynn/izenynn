@@ -19,7 +19,7 @@
 - 🎓 Master's in Advanced Programming for Video Games @ [U-tad](https://u-tad.com/en/)
 - 🎓 Computer Software Engineering @ [42](https://42madrid.com)
 - ⌨️ Arch linux && alt layouts enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn)).
-- 👾 Games: ([NotMyWar on Steam](https://store.steampowered.com/app/4034810/Not_My_War/) | Itch.io profile](https://izenynn.itch.io/)) | ([Google Play profile](https://play.google.com/store/apps/dev?id=7557040977651768367)).
+- 👾 Games: [NotMyWar on Steam](https://store.steampowered.com/app/4034810/Not_My_War/) | [Itch.io profile](https://izenynn.itch.io/) | [Google Play profile](https://play.google.com/store/apps/dev?id=7557040977651768367).
 - 🎮 Hobbies: pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and patatas bravas.
 
 </span>
