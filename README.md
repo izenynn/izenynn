@@ -48,7 +48,8 @@
 
 ## 🧠 Skills
 
-**Languages**
+### **Languages**
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
@@ -56,14 +57,16 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=101010)
 
-**Engines & Graphics**
+### **Engines & Graphics**
+
 ![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
 ![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
 ![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
 ![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)
 
-**Tools & Systems**
+### **Tools & Systems**
+
 ![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
 ![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white&labelColor=101010)
@@ -71,7 +74,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)
 
-**Security & Pentesting**
+### **Security & Pentesting**
+
 ![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=for-the-badge&logoColor=white&labelColor=101010)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-00599C?style=for-the-badge&logoColor=white&labelColor=101010)
 ![Volatility](https://img.shields.io/badge/Volatility-7B1FA2?style=for-the-badge&logoColor=white&labelColor=101010)
@@ -84,7 +88,8 @@
 ![pwntools](https://img.shields.io/badge/pwntools-FF1744?style=for-the-badge&logoColor=white&labelColor=101010)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)
 
-**Debug & Dev**
+### **Debug & Dev**
+
 ![GDB](https://img.shields.io/badge/GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white&labelColor=101010)
 ![Valgrind](https://img.shields.io/badge/Valgrind-8B0000?style=for-the-badge&logoColor=white&labelColor=101010)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)
