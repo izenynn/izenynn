@@ -104,7 +104,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izenynn/)</br>
 [![Website](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://izenynn.com)</br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izenynn)</br>
-[![Git Server](https://img.shields.io/badge/Git_Server-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git.izenynn.com)</br>
+[![Git Server](https://img.shields.io/badge/Git_Server-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git.izenynn.com/izenynn)</br>
 
 ---
 
