@@ -48,30 +48,58 @@
 
 ## 🧠 Skills
 
+**Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=101010)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=101010)
 
+**Engines & Graphics**
 ![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
-![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
-
+![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
 ![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)</br>
+![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)
 
-![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)</br>
+**Tools & Systems**
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
+![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white&labelColor=101010)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&labelColor=101010)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)
 
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)</br>
+**Security & Pentesting**
+![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=for-the-badge&logoColor=white&labelColor=101010)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-00599C?style=for-the-badge&logoColor=white&labelColor=101010)
+![Volatility](https://img.shields.io/badge/Volatility-7B1FA2?style=for-the-badge&logoColor=white&labelColor=101010)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white&labelColor=101010)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=101010)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white&labelColor=101010)
+![Hashcat](https://img.shields.io/badge/Hashcat-8B0000?style=for-the-badge&logoColor=white&labelColor=101010)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=101010)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-E91E63?style=for-the-badge&logoColor=white&labelColor=101010)
+![pwntools](https://img.shields.io/badge/pwntools-FF1744?style=for-the-badge&logoColor=white&labelColor=101010)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=101010)
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
+**Debug & Dev**
+![GDB](https://img.shields.io/badge/GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white&labelColor=101010)
+![Valgrind](https://img.shields.io/badge/Valgrind-8B0000?style=for-the-badge&logoColor=white&labelColor=101010)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&labelColor=101010)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white&labelColor=101010)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izenynn/)
-[![Website](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://izenynn.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izenynn)
-[![Git Server](https://img.shields.io/badge/Git_Server-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git.izenynn.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izenynn/)</br>
+[![Website](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://izenynn.com)</br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izenynn)</br>
+[![Git Server](https://img.shields.io/badge/Git_Server-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git.izenynn.com)</br>
 
 ---
 
