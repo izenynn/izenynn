@@ -8,19 +8,20 @@
 <br><br>
 
 <span align="left">
-<img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 275px; float: right;">
+<img align="right" src=./media/one-piece-law.webp style="object-fit: cover; height: 300px; float: right;">
 
 ~ 65312 byte(s) leaked in 693 allocation(s). ~
 
 - 🌍 Madrid, Spain.
-- 🖥️ Technical blog: [izenynn.com](https://izenynn.com).
-- 🔧 Git server: [git.izenynn.com](https://git.izenynn.com)
+- 🖥️ Technical blog: [izenynn.com](https://izenynn.com)
+- 🐙 GitHub: [github.com](https://github.com/izenynn)
+- 🔧 Git server: [git.izenynn.com](https://git.izenynn.com/izenynn)
 - ✉️ Contact: [izenynn@gmail.com](mailto:izenynn@gmail.com).
 - 🎓 Master's in Advanced Programming for Video Games @ [U-tad](https://u-tad.com/en/)
 - 🎓 Computer Software Engineering @ [42](https://42madrid.com)
-- ⌨️ Arch linux && alt layouts enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn)).
-- 👾 Games: [NotMyWar on Steam](https://store.steampowered.com/app/4034810/Not_My_War/) | [Itch.io profile](https://izenynn.itch.io/) | [Google Play profile](https://play.google.com/store/apps/dev?id=7557040977651768367).
-- 🎮 Hobbies: pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and patatas bravas.
+- ⌨️ Arch linux && alt layouts enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn))
+- 👾 Games: [NotMyWar on Steam](https://store.steampowered.com/app/4034810/Not_My_War/) | [Itch.io profile](https://izenynn.itch.io/) | [Google Play profile](https://play.google.com/store/apps/dev?id=7557040977651768367)
+- 🎮 Hobbies: pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and patatas bravas
 
 </span>
 <br clear="right">
