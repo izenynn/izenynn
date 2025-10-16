@@ -2,7 +2,7 @@
 
 <h2>👋 Hi, I'm Dani 🙃</h2>
 
-🛰 C/C++&ensp;•&ensp;👾 Unreal Engine&ensp;•&ensp;🚧 Core Systems & Engine Architecture
+🛰 C & C++&ensp;•&ensp;👾 Unreal Engine&ensp;•&ensp;🚧 Core Systems & Engine Architecture
 
 </span>
 <br><br>
@@ -31,7 +31,7 @@
 ## 🧑‍💻 About Me
 
 - 💻 **Focus:** Modular architecture, scalable core systems, low-level programming
-- 🧩 **Experience:** Game engines, game core systems, networking, graphics (OpenGL), low-level systems, devops, pentesting, linux
+- 🧩 **Experience:** Low-level systems, game engines, core systems, networking, graphics (OpenGL), devops, pentesting, linux
 - 🤝 Strong believer in maintainable code and flexible architecture
 - 🫧 Previously lead programmer at [24-Pack Studios](https://store.steampowered.com/app/4034810/Not_My_War/)
 
@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 **Not My War** – Lead programmer on UE5 stealth game, core systems architecture
+- 🎯 [**Not My War**](https://store.steampowered.com/app/4034810/Not_My_War/) – Lead programmer on UE5 stealth game, core systems architecture
 - 🌐 **Web Server** – HTTP/1.1 server in C++98 with CGI support, nginx-style config
 - 🕹️ **Chip8 Emulator** – Simple emulator to learn emulation fundamentals
 - 🔧 **Custom Engines** – Built simple game engines from scratch for learning
