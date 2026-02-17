@@ -2,7 +2,7 @@
 
 <h2>👋 Hi, I'm Dani 🙃</h2>
 
-🛰 C & C++&ensp;•&ensp;👾 Unreal Engine&ensp;•&ensp;🚧 Core Systems & Engine Architecture
+🛰 C & C++&ensp;•&ensp;🔧 Systems & Engine Architecture&ensp;•&ensp;⚡ Low-Level Development
 
 </span>
 <br><br>
@@ -13,9 +13,9 @@
 ~ 65312 byte(s) leaked in 693 allocation(s). ~
 
 - 🌍 Madrid, Spain.
-- 🖥️ Technical blog: [izenynn.com](https://izenynn.com)
-- 🐙 GitHub: [github.com](https://github.com/izenynn)
-- 🔧 Git server: [git.izenynn.com](https://git.izenynn.com/izenynn)
+- 🖥️ Technical blog: [izenynn.com](https://izenynn.com).
+- 🐙 GitHub: [github.com](https://github.com/izenynn).
+- 🔧 Git server: [git.izenynn.com](https://git.izenynn.com/izenynn).
 - ✉️ Contact: [izenynn@gmail.com](mailto:izenynn@gmail.com).
 - 🎓 Master's in Advanced Programming for Video Games @ [U-tad](https://u-tad.com/en/)
 - 🎓 Computer Software Engineering @ [42](https://42madrid.com)
