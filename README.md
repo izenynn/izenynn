@@ -2,7 +2,7 @@
 
 <h2>👋 Hi, I'm Dani 🙃</h2>
 
-🛰 C & C++&ensp;•&ensp;🔧 Systems & Engine Architecture&ensp;•&ensp;⚡ Low-Level Development
+🛰 C & C++&ensp;•&ensp;🐧 Linux Kernel&ensp;•&ensp;⚡ Low-Level Systems
 
 </span>
 <br><br>
@@ -13,15 +13,17 @@
 ~ 65312 byte(s) leaked in 693 allocation(s). ~
 
 - 🌍 Madrid, Spain.
-- 🖥️ Technical blog: [izenynn.com](https://izenynn.com).
+- 🖥️ Technical Blog: [izenynn.com](https://izenynn.com).
 - 🐙 GitHub: [github.com](https://github.com/izenynn).
-- 🔧 Git server: [git.izenynn.com](https://git.izenynn.com/izenynn).
+- 🔧 Git Server: [git.izenynn.com](https://git.izenynn.com/izenynn).
 - ✉️ Contact: [izenynn@gmail.com](mailto:izenynn@gmail.com).
-- 🎓 Master's in Advanced Programming for Video Games @ [U-tad](https://u-tad.com/en/)
-- 🎓 Computer Software Engineering @ [42](https://42madrid.com)
-- ⌨️ Arch linux && alt layouts enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn))
-- 👾 Games: [NotMyWar on Steam](https://store.steampowered.com/app/4034810/Not_My_War/) | [Itch.io profile](https://izenynn.itch.io/) | [Google Play profile](https://play.google.com/store/apps/dev?id=7557040977651768367)
-- 🎮 Hobbies: pentesting ([Hack The Box profile](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and patatas bravas
+- ⌨️ Arch Linux && Alt Layouts Enjoyer ([monkeytype profile](https://monkeytype.com/profile/izenynn))
+- 👾 Indie Game Dev as a Hobby: [Not My War on Steam](https://store.steampowered.com/app/4034810/Not_My_War/) | [Itch.io](https://izenynn.itch.io/) | [Google Play](https://play.google.com/store/apps/dev?id=7557040977651768367)
+- 🎮 Hobbies: pentesting ([Hack The Box](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and patatas bravas
+
+- 🎓 Software Engineering @ [U-tad](https://u-tad.com/en/) *(in progress)*
+- 🎓 Master's in Advanced Programming for Video Games @ [U-tad](https://u-tad.com/en/) *(2024 - 2025)*
+- 🎓 Software Development @ [42 Madrid](https://42madrid.com) *(2021 - 2024)*
 
 </span>
 <br clear="right">
@@ -30,20 +32,22 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 **Focus:** Modular architecture, scalable core systems, low-level programming
-- 🧩 **Experience:** Low-level systems, game engines, core systems, networking, graphics (OpenGL), devops, pentesting, linux
-- 🤝 Strong believer in maintainable code and flexible architecture
-- 🫧 Previously lead programmer at [24-Pack Studios](https://store.steampowered.com/app/4034810/Not_My_War/)
+- 💻 **Focus:** Low-level systems programming, Linux kernel internals, modular architecture
+- 🧩 **Experience:** Low-level systems, networking, linux, graphics (OpenGL), game engines, devops, pentesting
+- 🤝 Strong believer in maintainable code and flexible architecture. I enjoy building abstractions from scratch
+- 🎮 Indie game dev as a hobby, with published titles on Steam and Google Play
 
 ---
 
 ## 🚀 Featured Projects
 
+- 🔍 [**Nmap Clone**](https://github.com/izenynn/ft_nmap) – Full-featured network scanner with raw packet crafting and multi-threaded scanning
+- 🔐 [**SSH Drop**](https://github.com/izenynn/ssh-drop) – Minimal SSH service for secure secret delivery
+- 🐚 [**Mini Shell**](https://github.com/izenynn/mini-shell) – Bash-like shell with AST parsing
+- 🌐 [**Web Server**](https://github.com/izenynn/web-server) – HTTP/1.1 server in C++98 with CGI support, zero external libraries
+- ⌨️ [**Mini Vim**](https://github.com/izenynn/mini-vim) – Vim clone with syntax highlighting
+- 📚 [**Containers**](https://github.com/izenynn/ft_containers) – C++98 STL container reimplementations
 - 🎯 [**Not My War**](https://store.steampowered.com/app/4034810/Not_My_War/) – Lead programmer on UE5 stealth game, core systems architecture
-- 🌐 **Web Server** – HTTP/1.1 server in C++98 with CGI support, nginx-style config
-- 🕹️ **Chip8 Emulator** – Simple emulator to learn emulation fundamentals
-- 🔧 **Custom Engines** – Built simple game engines from scratch for learning
-- 📚 **Containers** - Custom implementation of some C++ STL containers
 
 --- 
 
@@ -54,26 +58,28 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=101010)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=101010)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)</br>
-
-### **Engines & Graphics**
-
-![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
-![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
-![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)</br>
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=101010)</br>
 
 ### **Tools & Systems**
 
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
 ![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white&labelColor=101010)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&labelColor=101010)</br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)</br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=101010)</br>
+
+### **Debug & Dev**
+
+![GDB](https://img.shields.io/badge/GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white&labelColor=101010)
+![Valgrind](https://img.shields.io/badge/Valgrind-8B0000?style=for-the-badge&logoColor=white&labelColor=101010)</br>
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)</br>
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&labelColor=101010)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white&labelColor=101010)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)</br>
 
 ### **Security & Pentesting**
 
@@ -89,14 +95,13 @@
 ![pwntools](https://img.shields.io/badge/pwntools-FF1744?style=for-the-badge&logoColor=white&labelColor=101010)</br>
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=101010)</br>
 
-### **Debug & Dev**
+### **Game Dev & Graphics**
 
-![GDB](https://img.shields.io/badge/GDB-5C2D91?style=for-the-badge&logo=gnu&logoColor=white&labelColor=101010)
-![Valgrind](https://img.shields.io/badge/Valgrind-8B0000?style=for-the-badge&logoColor=white&labelColor=101010)</br>
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&labelColor=101010)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white&labelColor=101010)</br>
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)</br>
+![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
+![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
+![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![Godot](https://img.shields.io/badge/Godot_Engine-0242bd?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)</br>
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)
 
 ---
 
