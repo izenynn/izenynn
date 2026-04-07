@@ -116,6 +116,6 @@
 
 <span align="center">
 
-[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/api/badges/community/019b4b6c-a55a-74d3-997a-8cdb89f5d7d6.svg)](https://forthebadge.com)
 
 </span>
