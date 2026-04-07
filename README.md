@@ -21,12 +21,12 @@
 - 👾 Indie Game Dev as a Hobby: [Not My War on Steam](https://store.steampowered.com/app/4034810/Not_My_War/) | [Itch.io](https://izenynn.itch.io/) | [Google Play](https://play.google.com/store/apps/dev?id=7557040977651768367)
 - 🎮 Hobbies: pentesting ([Hack The Box](https://app.hackthebox.com/profile/757646)), TV series, simracing, boardgames and patatas bravas
 
+</span>
+<br clear="right">
+
 - 🎓 Software Engineering @ [U-tad](https://u-tad.com/en/) *(in progress)*
 - 🎓 Master's in Advanced Programming for Video Games @ [U-tad](https://u-tad.com/en/) *(2024 - 2025)*
 - 🎓 Software Development @ [42 Madrid](https://42madrid.com) *(2021 - 2024)*
-
-</span>
-<br clear="right">
 
 ---
 
